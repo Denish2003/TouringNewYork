@@ -1,0 +1,6 @@
+data/SeatingLocations.csv
+data/NYCMap.jpg
+40.4855
+40.9166
+-74.2635
+-73.7018
