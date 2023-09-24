@@ -4,15 +4,18 @@
 A Java program that reads a text file containing important information such as .csv file paths, map title, and latitude and longitude boundaries. The program draws an interactive map and plots points using latitude and longitude coordinates provided by a .csv file. Users can interact with the map, highlighting specific categories of seating locations and displaying addresses upon clicking on points.
 
 ### Required Installation 
-In order to use sucessfully run and compile all the libraries in this project. You are required to install princeton java environment, which can be installed using the following link: https://lift.cs.princeton.edu/java/windows/
+In order to use sucessfully run and compile all the libraries in this project. You are required to install Princeton java environment, which can be installed using the following link: https://lift.cs.princeton.edu/java/windows/
 
 ### How to Use
 1. Make sure you have all the files downloaded on your local device before moving on to the next steps. Make sure everything is in one place.
    a. If your data folder is not in the same folder as the other classes. You will have to update the file path in the program.
-3. Compile all the classes using compile script provided in each class.
+2. Compile all the classes using compile script provided in each class.
    a. javac-introcs, wrapper script will only be availabe to use, if your required instatallation is done correctly.
-4. After successful completion of previous step, go ahead and run the program using the run script provided in each class.
+3. After successful completion of previous step, go ahead and run the program using the run script provided in each class.
    a. Map class produces the final result. SimpleCSV and Location are just helper classes. 
+
+### Images of Program in Use
+![TouringNewYork](https://github.com/Denish2003/TouringNewYork/assets/141275184/16fa6897-73a5-4d08-bf99-ae51121c92e7)
 
 ### Features
 - Parses .csv files to obtain location data.
