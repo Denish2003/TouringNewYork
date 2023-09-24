@@ -1,5 +1,5 @@
 # TouringNewYork
-#### Authors: Denish Patel (dp9798@princeton.edu) & Bryan Alexis
+#### Authors: Denish Patel (dp9798@princeton.edu) & Bryan Alexis (ba9071@princeton.edu)
 
 A Java program that reads a text file containing important information such as .csv file paths, map title, and latitude and longitude boundaries. The program draws an interactive map and plots points using latitude and longitude coordinates provided by a .csv file. Users can interact with the map, highlighting specific categories of seating locations and displaying addresses upon clicking on points.
 
