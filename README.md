@@ -7,8 +7,12 @@ A Java program that reads a text file containing important information such as .
 In order to use sucessfully run and compile all the libraries in this project. You are required to install princeton java environment, which can be installed using the following link: https://lift.cs.princeton.edu/java/windows/
 
 ### How to Use
-1. A
-2. 
+1. Make sure you have all the files downloaded on your local device before moving on to the next steps. Make sure everything is in one place.
+   a. If your data folder is not in the same folder as the other classes. You will have to update the file path in the program.
+3. Compile all the classes using compile script provided in each class.
+   a. javac-introcs, wrapper script will only be availabe to use, if your required instatallation is done correctly.
+4. After successful completion of previous step, go ahead and run the program using the run script provided in each class.
+   a. Map class produces the final result. SimpleCSV and Location are just helper classes. 
 
 ### Features
 - Parses .csv files to obtain location data.
