@@ -15,7 +15,7 @@ In order to use sucessfully run and compile all the libraries in this project. Y
    a. Map class produces the final result. SimpleCSV and Location are just helper classes. 
 
 ### Images of Program in Use
-![TouringNewYork](https://github.com/Denish2003/TouringNewYork/assets/141275184/16fa6897-73a5-4d08-bf99-ae51121c92e7)
+<img src='https://github.com/Denish2003/TouringNewYork/assets/141275184/16fa6897-73a5-4d08-bf99-ae51121c92e7' width='50%' height='50%')
 
 ### Features
 - Parses .csv files to obtain location data.
